@@ -1,15 +1,15 @@
 ### Hi! i'm Tallys 😁
-##
 
  **A studious front-end engineer, designer and vintage lover**
 
-**Connect with me:**
+Connect with me:
+
 <a href="https://www.facebook.com/tallys.kronos5574" target="_blank">
 <img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="tallys-facebook"></a>
 
-## **My Skills:**
-<img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="tallys-facebook">
-<img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="tallys-facebook">
+## My Skills:
+
+<img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="tallys-facebook"><img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="tallys-facebook">
 <img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="tallys-facebook">
 <img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="tallys-facebook">
 
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
