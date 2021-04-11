@@ -1,12 +1,13 @@
  <h1 aling="center">Hi! i'm Tallys 😁</h1>
- <h2 aling="center">A studious front-end engineer, designer and vintage lover</h2>
+ 
+**A studious front-end engineer, designer and vintage lover :spade**
 
 ## Connect with me:
 
 <a href="https://www.facebook.com/tallys.kronos5574" target="_blank">
 <img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="tallys-facebook"></a>
 
-## My Skills:
+## :octocat: My Skills:
 
 <img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="tallys-facebook"><img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="tallys-facebook">
 <img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="tallys-facebook">
