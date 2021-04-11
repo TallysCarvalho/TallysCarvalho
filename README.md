@@ -1,5 +1,5 @@
  <h1 aling="center">Hi! i'm Tallys 😁</h1>
-## A studious front-end engineer, designer and vintage lover
+ <h2 aling="center">A studious front-end engineer, designer and vintage lover</h2>
 
 ## Connect with me:
 
