@@ -4,8 +4,8 @@
 
 ## Connect with me:
 
-<a href="https://www.facebook.com/tallys.kronos5574"target="_blank">
-<img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="tallys-facebook"></a>
+<a href="https://www.facebook.com/tallys.kronos5574" target="_blank">
+<img aling="center" height="30" width="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="tallys-facebook"> </a>
 
 ## :octocat: My Skills:
 
